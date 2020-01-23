@@ -2,11 +2,11 @@
 test demo repo
 # The Title
 
-'''
+```
 
 No one can make you feel inferior without your consent
 
-'''
+```
 
 The link to the quote
 
@@ -22,14 +22,14 @@ https://quotesnsmiles.com/quotes/77-of-the-worlds-most-popular-quotes/
 
 # Touch command
 
-'''
+```
 
 touch Filename
 
-'''
+```
 
-'''
+```
 
 use to create a single new file or multiple files with one command line
 
-'''
+```
