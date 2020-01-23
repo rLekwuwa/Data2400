@@ -22,15 +22,11 @@ https://quotesnsmiles.com/quotes/77-of-the-worlds-most-popular-quotes/
 
 # Touch command
 
-```
 
 touch Filename
 
-```
-
-```
+# examples
 
 -use to create a single new file.
 -create multiple files with one command line
 
-```
