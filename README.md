@@ -30,6 +30,6 @@ touch Filename
 
 ```
 
-use to create a single new file or multiple files with one command line
+-use to create a single new file or multiple files with one command line
 
 ```
