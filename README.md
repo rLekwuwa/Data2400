@@ -25,7 +25,9 @@ https://quotesnsmiles.com/quotes/77-of-the-worlds-most-popular-quotes/
 
 touch Filename
 
-# examples
+example
+
+> touch testfile_2
 
 -use to create a single new file.
 -create multiple files with one command line
